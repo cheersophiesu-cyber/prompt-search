@@ -1,0 +1,4 @@
+interface:
+  display_name: "找提示词小工具"
+  short_description: "从链接追查同款效果提示词，核验作者与复现反馈，并用 Seedream 测试"
+  default_prompt: "使用 $prompt-search 从这个链接查找同款效果的提示词，核验正文和评论区证据，再用我上传的图片通过 Seedream 5.0 Pro 测试。"
