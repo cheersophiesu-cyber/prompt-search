@@ -1,0 +1,13 @@
+# Local credentials and configuration
+.env
+.env.*
+local-config.json
+
+# Generated cases and images
+outputs/
+work/
+
+# Python and operating system caches
+__pycache__/
+*.py[cod]
+.DS_Store
